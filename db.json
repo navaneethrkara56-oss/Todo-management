@@ -1,0 +1,37 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Buy groceries",
+      "description": "Buy groceries for the week",
+      "date": "2026-10-06",
+      "priority": "High",
+      "status": "Pending"
+    },
+    {
+      "id": "2",
+      "title": "Pay electricity bill",
+      "description": "Pay the electricity bill before the due date",
+      "date": "2026-10-05",
+      "priority": "Medium",
+      "status": "Completed"
+    },
+    {
+      "id": "3",
+      "title": "Complete React assignment",
+      "description": "Finish the Todo Management project",
+      "date": "2026-10-07",
+      "priority": "High",
+      "status": "Pending"
+    },
+    {
+      "id": "4",
+      "title": "Read JavaScript notes",
+      "description": "Review promises, async and array methods",
+      "date": "2026-10-09",
+      "priority": "Medium",
+      "status": "Completed"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
